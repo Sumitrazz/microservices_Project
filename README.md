@@ -50,7 +50,8 @@ Each service will register with Eureka and be accessible via the API Gateway.
 
 All services successfully registered:
 
-![Eureka Dashboard](./screenshots/eureka-dashboard.png)
+<img width="1437" alt="Screenshot 2025-06-13 at 1 00 48 PM" src="https://github.com/user-attachments/assets/11fc1a23-acb3-415d-8fa2-ccfa8270a4a6" />
+
 
 > 💡 Note: Make sure you place the screenshot at `microservices_Project/screenshots/eureka-dashboard.png` or adjust the path accordingly.
 
