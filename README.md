@@ -13,7 +13,7 @@ microservices_Project/
 ```
 
 ### ✅ Eureka Server
-Acts as the service registry. All microservices register themselves here.
+Acts as the service registry.. All microservices register themselves here.
 
 ### ✅ API Gateway
 Handles routing to appropriate services using service discovery through Eureka.
